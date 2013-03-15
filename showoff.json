@@ -1,0 +1,7 @@
+{
+  "name": "Functional Programming in Ruby",
+  "templates": {
+    "default": "style_guide.tpl"
+  },
+  "sections": [ { "section": "presentation" } ]
+}
